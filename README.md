@@ -16,7 +16,7 @@ It is intentionally small and easy to understand. If you want to learn how a CLI
 
 ## Requirements
 
-- Java 11 or higher
+- Java 21 or higher
 - Maven 3.6 or higher
 
 ---
